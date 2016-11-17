@@ -40,5 +40,5 @@ What changes should club officers make? Do the club officers have to do extra wo
 
 Describe alternative approaches to addressing the same problem, and why you chose this approach instead.
 
-# Additional Information (Optional)
+## Additional Information (Optional)
 Any additional information that can't fit into any of those categories.
